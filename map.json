@@ -896,8 +896,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":31,
          "firstgid":321,
-         "source":"Pictet.tsx"
+         "image":"Pictet_logo.jpg",
+         "imageheight":361,
+         "imagewidth":1000,
+         "margin":0,
+         "name":"Pictet",
+         "spacing":0,
+         "tilecount":341,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
